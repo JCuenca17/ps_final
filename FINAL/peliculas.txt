@@ -1,0 +1,20 @@
+El Padrino,Francis Ford Coppola,1972,9.2,1
+El caballero oscuro,Christopher Nolan,2008,9.0,0
+Pulp Fiction,Quentin Tarantino,1994,8.9,1
+El Señor de los Anillos: El Retorno del Rey,Peter Jackson,2003,8.9,0
+Forrest Gump,Robert Zemeckis,1994,8.8,1
+Inception,Christopher Nolan,2010,8.8,0
+Fight Club,David Fincher,1999,8.8,1
+El Imperio Contraataca,Irvin Kershner,1980,8.7,0
+Matrix,Lana Wachowski,1999,8.7,1
+Los siete samuráis,Akira Kurosawa,1954,8.6,0
+La guerra de las galaxias,George Lucas,1977,8.6,1
+Salvar al soldado Ryan,Steven Spielberg,1998,8.6,0
+Interestelar,Christopher Nolan,2014,8.6,1
+Casablanca,Michael Curtiz,1942,8.5,0
+Parásitos,Bong Joon Ho,2019,8.6,1
+Ciudad de Dios,Fernando Meirelles,2002,8.6,0
+El silencio de los corderos,Jonathan Demme,1991,8.6,1
+Los Intocables,Brian De Palma,1987,8.6,0
+Django Unchained,Quentin Tarantino,2012,8.4,1
+The Dark Knight Rises,Christopher Nolan,2012,8.4,0
