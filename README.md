@@ -10,32 +10,15 @@ Está dividido en tres módulos, cada uno con su `.h` y su `.cpp`:
 
 Cada módulo guarda y carga sus datos en un archivo de texto separado por comas. Los errores, como no encontrar una película o no poder abrir un archivo, se lanzan como `runtime_error` y el menú los atrapa sin cerrar el programa.
 
-## El menú
+## En la consola
 
-```
-Menu:
---------- Peliculas ---------
-1. Agregar Pelicula
-2. Eliminar Pelicula
-3. Buscar Pelicula
-4. Actualizar Pelicula
-5. Listar Peliculas
-6. Guardar Peliculas en Archivo
-7. Cargar Peliculas desde Archivo
----------- Usuarios ---------
-8. Agregar Usuario
-9. Eliminar Usuario
-10. Listar Usuarios
-11. Guardar Usuarios en Archivo
-12. Cargar Usuarios desde Archivo
---------- Prestamos ---------
-13. Establecer Prestamo
-14. Establecer Devolucion
-15. Listar Prestamos
-16. Guardar Prestamos en Archivo
-17. Cargar Prestamos desde Archivo
-0. Salir
-```
+Menú principal y listado de películas después de cargar `peliculas.txt`:
+
+![Menú y listado de películas](docs/menu-y-peliculas.jpg)
+
+Listado de préstamos con el nombre de cada usuario:
+
+![Listado de préstamos](docs/prestamos.jpg)
 
 ## Compilarlo
 
@@ -46,3 +29,5 @@ g++ main.cpp peliculas.cpp usuarios.cpp prestamos.cpp -o alquiler
 ```
 
 `peliculas.txt`, `usuarios.txt` y `prestamos.txt` traen datos de ejemplo. Para usarlos se elige la opción de cargar y se escribe el nombre del archivo.
+
+© 2024 José Luis Cuenca Gutiérrez. Todos los derechos reservados.
